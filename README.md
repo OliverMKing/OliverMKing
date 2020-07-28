@@ -1,7 +1,7 @@
 ## Hello World! :wave:
-I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn technologies through building projects. My goal is to learn something new every day. Scroll down to see some of my favorite projects.
+I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new technologies through building projects. Scroll down to see some of my favorite projects.
 
-### Learning :computer:
+### Currently Learning :computer:
 - Scala
 - Functional Programming
 
