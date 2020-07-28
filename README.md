@@ -9,3 +9,6 @@ I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new tec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverMKing&hide=css&layout=compact)
 
+### Contact :mailbox:
+- [Email](mailto:oking3@uncc.edu)
+- [Linkedin](https://www.linkedin.com/in/oliver-merkley-king/)
