@@ -2,7 +2,7 @@
 I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new technologies through building cool stuff. [Look below](https://github.com/OliverMKing#choose-pinned-repositories) to see some of my favorite projects.
 
 ### Currently Learning :computer:
-- Scala
+- Elixir
 - Functional Programming
 
 ### Stats :bar_chart:
