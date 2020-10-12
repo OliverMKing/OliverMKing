@@ -1,5 +1,5 @@
 ## Hello World! :wave:
-I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new technologies through building cool stuff. [Look below](https://github.com/OliverMKing#choose-pinned-repositories) to see some of my favorite projects.
+I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new technologies through building cool stuff. Look below to see some of my favorite projects.
 
 ### Currently Learning :computer:
 - Elixir
