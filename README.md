@@ -2,8 +2,8 @@
 I'm Oliver, a Computer Science student at UNC Charlotte. I love to learn new technologies through building cool stuff. Look below to see some of my favorite projects.
 
 ### Currently Learning :computer:
-- Elixir
-- Functional Programming
+- C++
+- C#
 
 ### Stats :bar_chart:
 
