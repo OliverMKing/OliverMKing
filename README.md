@@ -2,8 +2,7 @@
 I'm Oliver, a Software Engineer. I love to learn new technologies through building cool stuff. Look below to see some of my favorite projects.
 
 ### Currently Learning :computer:
-- C++
-- C#
+- Go
 
 ### Stats :bar_chart:
 
