@@ -3,6 +3,7 @@ I'm Oliver, a Software Engineer. I love to learn new technologies through buildi
 
 ### Currently Learning :computer:
 - Go
+- Kubernetes
 
 ### Stats :bar_chart:
 
