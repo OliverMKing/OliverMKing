@@ -7,7 +7,7 @@ I'm Oliver, a Software Engineer [@Microsoft](https://github.com/microsoft) [@Azu
 
 ### Stats :bar_chart:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverMKing&hide=css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverMKing&hide=css,html&layout=compact&count_private=true&langs_count=8&custom_title=Personal%20Project%20Languages)
 
 ### Contact :mailbox:
 - [Email](mailto:oking3@uncc.edu)
