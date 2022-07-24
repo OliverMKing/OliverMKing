@@ -11,5 +11,5 @@ I'm Oliver, a Software Engineer [@Microsoft](https://github.com/microsoft) [@Azu
 
 
 ### Contact :mailbox:
-- [Email](mailto:oking3@uncc.edu)
+- [Email](mailto:olivermerkleyking@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/oliver-merkley-king/)
