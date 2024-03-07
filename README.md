@@ -1,9 +1,5 @@
 ## Hello World! :wave:
-I'm Oliver, a Software Engineer [@Microsoft](https://github.com/microsoft) [@Azure](https://github.com/azure) Kubernetes Services (AKS). I love to learn new technologies through building cool stuff. Look below to see some of my favorite projects.
-
-### Current Side Projects :computer:
-- Go Battlesnake
-- Frontend image generator
+I'm Oliver, a Software Engineer [@Microsoft](https://github.com/microsoft) [@Azure](https://github.com/azure) Kubernetes Service (AKS). I love to learn new technologies through building cool stuff. Look below to see some of my favorite projects.
 
 ### Personal Project Stats :bar_chart:
 
